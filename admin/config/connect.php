@@ -1,7 +1,7 @@
 <?php
 		$hostname = "52.6.114.59";
 		$user = "abc";
-		$pass = "abc123";
+		$pass = "abc1234";
 		$db = "abc";
 
 		$con = mysqli_connect($hostname,$user,$pass,$db);
