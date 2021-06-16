@@ -1,6 +1,5 @@
 <?php
-		$hostname = "52.6.114.59
-";
+		$hostname = "52.6.114.59";
 		$user = "diem";
 		$pass = "diem1234";
 		$db = "diem";
