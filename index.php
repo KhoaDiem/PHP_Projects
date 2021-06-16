@@ -102,7 +102,7 @@
 					<div class="product-group">
 						<div class="col-md-3 col-sm-6 col-12">
 							<img src="img/<?php echo $song_img?>" width="180px" height="180px"/>
-							<p style="height: 80px; text-align: left;"><?php$song_name ?></p>
+							<p style="height: 80px; text-align: left;"><?php $song_name ?></p>
 							<audio id="audio_1" style="width: 247px"controls controlsList="nodownload" ><source src="Music/<?php echo $row['song_mp3']?>" type="audio/mpeg">
 							</audio>
 							<h3><?php echo $song_price?></h3>				
